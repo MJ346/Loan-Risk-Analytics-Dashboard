@@ -31,6 +31,9 @@ This project contains **interactive Power BI dashboards** designed to analyze lo
 - **DAX**: Calculated measures and KPIs  
 - **Power Query**: Data cleaning and transformation  
 
----
+---## Project Demo
+You can explore the interactive Power BI dashboards here:  
+[Open Power BI Report](https://app.powerbi.com/groups/me/reports/296439f0-554d-4218-84d1-ee37b5e97438/b944ca83982eacb3819e?experience=power-bi)
+
 
 
